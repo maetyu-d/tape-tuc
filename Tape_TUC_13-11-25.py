@@ -1,9 +1,6 @@
 """
-Tape TUC - Clean Playback + Anti-Click
+Tape TUC
 --------------------------------------
-Stable, clear playback with varispeed, reverse per section, inertia,
-target-time fit, zoom, and undo — plus an option to soften pops/clicks
-at marked segment boundaries.
 
 Features:
 - Any WAV/FLAC/OGG/AIFF via soundfile
@@ -14,7 +11,7 @@ Features:
 - Inertia (smooth transitions between section speeds)
 - Target total time scaling
 - Zoom in/out on waveform
-- Undo for edits
+- Undo (1 step)
 - Anti-click toggle to apply soft gain shaping near marker boundaries
 """
 
